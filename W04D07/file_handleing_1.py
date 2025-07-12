@@ -1,0 +1,1 @@
+fp = open("file2.txt", "r+")

@@ -1,0 +1,5 @@
+nsdljsdnfskjf
+Hello from read mode
+some things
+hey i am a new line from python
+I am the last line
